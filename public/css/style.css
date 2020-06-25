@@ -1,0 +1,23 @@
+body {
+	background: #16222A; 
+	background: -webkit-linear-gradient(to right, #3A6073, #16222A);  
+	background: linear-gradient(to right, #3A6073, #16222A); 
+}
+.remove-item,
+.check-item {
+	cursor: pointer;
+}
+.btn-add-activity {
+	width: 77px;
+    margin-left: -20px;
+}
+.footer {
+	position: relative;
+	width: 100%;
+	color: white;
+	text-align: center;
+	margin-top: 5%;
+}
+.footer p {
+	font-size: 10px;
+}
